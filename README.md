@@ -5,11 +5,11 @@ It fetches real-time weather data using the **OpenWeather API** and displays:
 
 ## 🚀 Demo
 
-Live demo: [click here](https://todo-shifat01.netlify.app/)
+Live demo: [click here](https://weather-shifat.netlify.app/)
 <br>
 or, 
 <br>
-link: https://todo-shifat01.netlify.app
+link: https://weather-shifat.netlify.app
 
 - 🌡️ Temperature (°C)  
 - 💧 Humidity  
